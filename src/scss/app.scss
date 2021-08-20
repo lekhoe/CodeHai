@@ -1,0 +1,20 @@
+// font
+@import url('https://pro.fontawesome.com/releases/v5.15.1/css/all.css');
+
+// bootstrap grid
+@import url('https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/5.1.0/css/bootstrap-grid.min.css');
+
+// reset css
+@import 'reset';
+
+// variables
+@import 'variables';
+
+// mixin
+@import 'mixin';
+
+// base
+@import 'base';
+
+// dashboard
+@import './dashboard/index.scss';
